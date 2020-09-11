@@ -1,6 +1,6 @@
-===========<br>
-Description<br>
-===========<br>
+===========<br/>
+Description<br/>
+===========<br/>
 
 This xml file contains a list of Banks in Kenya together with their:
 * Bank Name
